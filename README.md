@@ -1,7 +1,7 @@
 TypeScript React Hello World Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+一个最简单的Typescript + react项目，使用了vite
 
 ```
 npm install
