@@ -1,11 +1,19 @@
-TypeScript React Hello World Demo
-=================================
+# React Button with SCSS Demo
 
-一个最简单的Typescript + react项目，使用了vite
+一个简单的React按钮组件，使用SCSS样式。
+
+## 运行方式
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
-It will open page on browser automatically.
+或者使用pnpm：
+
+```
+pnpm install
+pnpm start
+```
+
+浏览器会自动打开页面展示按钮组件。

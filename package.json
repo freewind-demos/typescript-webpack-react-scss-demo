@@ -1,19 +1,19 @@
 {
+  "name": "typescript-react-scss-button-demo",
+  "version": "1.0.0",
   "scripts": {
-    "start": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "start": "vite --open",
+    "build": "tsc && vite build"
   },
   "dependencies": {
     "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "ts-node": "10.3.0"
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@types/node": "16.11.0",
     "@types/react": "17.0.30",
     "@types/react-dom": "17.0.9",
     "@vitejs/plugin-react": "^4.2.1",
+    "sass": "^1.85.1",
     "typescript": "5.4.3",
     "vite": "^5.1.6"
   }
